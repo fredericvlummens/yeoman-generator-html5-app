@@ -74,6 +74,6 @@
     "pretest": "eslint .",
     "test": "jest"
   },
-  "repository": "fredericvlummens/generator-html-5-app",
-  "license": "GPL-3.0"
+  "repository": "fredericvlummens/yeoman-generator-html5-app",
+  "license": "BSD-2-Clause-FreeBSD"
 }
