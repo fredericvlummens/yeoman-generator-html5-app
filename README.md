@@ -25,7 +25,7 @@ yo html-5-app
 
 ## License
 
-GPL-3.0 © [Frédéric Vlummens]()
+BSD-2-Clause-FreeBSD © [Frédéric Vlummens]()
 
 
 [npm-image]: https://badge.fury.io/js/generator-html-5-app.svg
