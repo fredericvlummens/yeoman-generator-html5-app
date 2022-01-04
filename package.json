@@ -1,6 +1,6 @@
 {
   "name": "@fredericvlummens/generator-html5-app",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Generates a vanilla HTML5 app with support for CSS (incl. reset.css) and JavaScript",
   "homepage": "",
   "author": {
@@ -13,7 +13,7 @@
   ],
   "main": "generators/index.js",
   "keywords": [
-    "",
+    "html5",
     "yeoman-generator"
   ],
   "devDependencies": {
